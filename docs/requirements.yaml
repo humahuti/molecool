@@ -1,11 +1,20 @@
 name: docs
+
+# Set the OS, Python version and other tools you might need
+build:
+  os: ubuntu-20.04.6
+  tools:
+    python: "3.12"
+
 channels:
 dependencies:
     # Base depends
   - python
   - pip
 
-
+# Build documentation in the "docs/" directory with Sphinx
+sphinx:
+  configuration: docs/conf.py
 
     # Pip-only installs
   #- pip:
