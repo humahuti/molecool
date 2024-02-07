@@ -5,6 +5,8 @@
 
 Welcome to molecool's documentation!
 =========================================================
+Molecool is developed as a part of PHYMOL Training school 1.
+It is a software to visualize molecules.
 
 .. toctree::
    :maxdepth: 2
@@ -12,6 +14,7 @@ Welcome to molecool's documentation!
 
    getting_started
    api
+   about
 
 
 
