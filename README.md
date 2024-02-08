@@ -18,3 +18,7 @@ Project based on the
 [Computational Molecular Science Python Cookiecutter](https://github.com/molssi/cookiecutter-cms) version 1.1.
 
 #### Installation
+
+#### Collab Instructions
+
+Required for collaborative project
